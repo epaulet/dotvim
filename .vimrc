@@ -1,5 +1,6 @@
 syntax on
 set number
+set ruler
 set splitright
 set splitbelow
 set listchars=tab:→\ ,trail:∙,nbsp:•
