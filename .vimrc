@@ -17,5 +17,3 @@ set hlsearch
 
 " search text background Cyan
 highlight Search ctermbg=14
-
-nnoremap <Leader>s :<C-u>call gitblame#echo()<CR>
