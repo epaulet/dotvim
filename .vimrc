@@ -17,3 +17,5 @@ set hlsearch
 
 " search text background Cyan
 highlight Search ctermbg=14
+
+set rtp+=/usr/local/opt/fzf
