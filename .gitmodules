@@ -1,3 +1,6 @@
 [submodule "pack/epaulet/start/vim-fugitive.git"]
 	path = pack/epaulet/start/vim-fugitive.git
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/epaulet/start/ale.git"]
+	path = pack/epaulet/start/ale.git
+	url = https://github.com/dense-analysis/ale.git
