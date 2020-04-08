@@ -7,6 +7,10 @@ set listchars=tab:→\ ,trail:∙,nbsp:•
 set list
 set autoindent
 
+" folding
+set foldmethod=indent
+set foldlevel=10
+
 " expands tabs into spaces
 set expandtab
 set shiftwidth=2
