@@ -1,4 +1,7 @@
 syntax on
+filetype on
+filetype plugin on
+
 set number
 set ruler
 set splitright
@@ -9,7 +12,7 @@ set autoindent
 
 " folding
 set foldmethod=indent
-set foldlevel=10
+set foldlevel=15
 
 " expands tabs into spaces
 set expandtab
