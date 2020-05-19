@@ -23,3 +23,9 @@ $(brew --prefix)/opt/fzf/install
 
 brew install ripgrep
 ```
+
+## Configuration
+Add to ~/.zshrc so that FZF uses ripgrep output for the file list
+```sh
+export FZF_DEFAULT_COMMAND='rg --files'
+```
