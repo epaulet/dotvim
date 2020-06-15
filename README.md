@@ -29,3 +29,9 @@ Add to ~/.zshrc so that FZF uses ripgrep output for the file list
 ```sh
 export FZF_DEFAULT_COMMAND='rg --files'
 ```
+
+## Adding a Plugin
+Add a plugin as a git submodule
+```sh
+git submodule add https://github.com/pbrisbin/vim-mkdir.git pack/epaulet/start/vim-mkdir.git
+```

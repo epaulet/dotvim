@@ -4,3 +4,6 @@
 [submodule "pack/epaulet/start/ale.git"]
 	path = pack/epaulet/start/ale.git
 	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/epaulet/start/vim-mkdir.git"]
+	path = pack/epaulet/start/vim-mkdir.git
+	url = https://github.com/pbrisbin/vim-mkdir.git
