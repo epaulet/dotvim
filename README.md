@@ -14,6 +14,11 @@ git submodule init
 git submodule update
 ```
 
+## Update
+```sh
+git submodule update --remote --merge
+```
+
 ## Dependencies
 ```sh
 brew install fzf
